@@ -1,12 +1,12 @@
 {
-  "name": "218014767",
+  "name": "219025614",
   "version": "1.0.0",
   "description": "Examination",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Beatrice Okyere-Darko",
+  "author": "Emmanuel Francis Cobbinah",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.3",
